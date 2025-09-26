@@ -43,4 +43,4 @@ We’ll be reviewing your submission with a focus on these areas:
 - Time Expectation: This test should take you about 2-3 hours. Please do not spend more than 4 hours on it. We respect your time and are interested in your best work within that timeframe.
 - Original Work: The code should be your own. You're free to use online resources like the Unity documentation or Stack Overflow, just as you would in a daily work environment.
 - AI tools: Use of AI is encouraged to make the most efficient use of your time. Please take care to properly understand, modify and fix any generated code.
-- Deadline: Please submit your test within [e.g., 3-4 days] of receiving this email. If you need more time, just let us know.
+- Deadline: Please submit your test within a week of receiving this email. If you need more time, just let us know.
