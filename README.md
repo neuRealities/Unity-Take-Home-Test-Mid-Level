@@ -22,7 +22,7 @@ Your service must meet the following functional requirements:
 - Serialization format is JSON. Newtonsoft's library is already added to the project.
 - Course and module data should be initially populated with the default provided data.
 - In the local implementation, changes to the course and module data should persist when the application is closed and relaunched. Where and how the data is stored is up to you.
-- Consider defining your service methods as asynchronous (Task<T>) even for the local implementation, as the future remote API will require this.
+- Consider defining your service methods as asynchronous (`Task<T>`) even for the local implementation, as the future remote API will require this.
 
 # Bonus Goals (Optional Nice-to-Haves). 
 These are not required. If you finish the core task and want to demonstrate additional skills, feel free to tackle one of these challenges.
