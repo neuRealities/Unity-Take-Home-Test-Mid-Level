@@ -19,7 +19,7 @@ Your service must meet the following functional requirements:
   - The only modifications that should be needed to swap the service is to instantiate and supply the new implementation.
   - It is not expected that you will write or use any dependency injection framework for this test, simply passing through dependencies is fine.
   - Please be prepared to demonstrate how we would change to a new implementation.
-- Serialization format is JSON. Newtonsoft's library is already added to the project.
+- Serialization format is JSON. Newtonsoft's library is already added to the project. Extensive knowledge of Newtonsoft's library shouldn't be needed but care will need to be taken over how enums are serialized.
 - Course and module data should be initially populated with the default provided data.
 - In the local implementation, changes to the course and module data should persist when the application is closed and relaunched. Where and how the data is stored is up to you.
 - Consider defining your service methods as asynchronous (`Task<T>`) even for the local implementation, as the future remote API will require this.
