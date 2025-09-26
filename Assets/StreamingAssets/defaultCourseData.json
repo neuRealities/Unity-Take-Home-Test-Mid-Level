@@ -1,0 +1,77 @@
+[
+  {
+    "id": 101,
+    "title": "Introduction to Computer Science",
+    "description": "A foundational course covering core computer science principles and programming basics using Python."
+  },
+  {
+    "id": 102,
+    "title": "Full-Stack Web Development",
+    "description": "An in-depth course on building modern web applications with both frontend and backend technologies."
+  },
+  {
+    "id": 103,
+    "title": "Data Science and Machine Learning",
+    "description": "Learn to analyze data, build predictive models, and understand machine learning algorithms."
+  },
+  {
+    "id": 104,
+    "title": "Frontend Development Masterclass",
+    "description": "A comprehensive course focused on creating responsive and interactive user interfaces with modern JavaScript frameworks."
+  },
+  {
+    "id": 105,
+    "title": "Cloud and DevOps Engineering",
+    "description": "Master the skills needed to deploy and manage applications in a cloud environment using DevOps practices."
+  },
+  {
+    "id": 106,
+    "title": "Mobile App Development",
+    "description": "Build cross-platform mobile applications from scratch using a single codebase."
+  },
+  {
+    "id": 107,
+    "title": "Cybersecurity for Beginners",
+    "description": "An introductory course to the essential concepts and practices of digital security and ethical hacking."
+  },
+  {
+    "id": 108,
+    "title": "Game Development Fundamentals",
+    "description": "Dive into the world of game creation, from core design principles to development with a popular game engine."
+  },
+  {
+    "id": 109,
+    "title": "Big Data and Analytics",
+    "description": "A course dedicated to processing, managing, and analyzing large-scale datasets for business intelligence and insights."
+  },
+  {
+    "id": 110,
+    "title": "Robotics and IoT",
+    "description": "Explore the intersection of hardware and software by building and programming robotic systems and IoT devices."
+  },
+  {
+    "id": 111,
+    "title": "Artificial Intelligence Concepts",
+    "description": "An exploration of key AI domains, including natural language processing and computer vision."
+  },
+  {
+    "id": 112,
+    "title": "Blockchain Technology",
+    "description": "Understand the fundamentals of decentralized technologies and how to build applications on the blockchain."
+  },
+  {
+    "id": 113,
+    "title": "Quantum Computing",
+    "description": "A theoretical and practical introduction to the emerging field of quantum information and computation."
+  },
+  {
+    "id": 114,
+    "title": "System Administration and Containerization",
+    "description": "Learn the skills to manage Linux systems and deploy applications using container technology like Docker."
+  },
+  {
+    "id": 115,
+    "title": "Web Application Security",
+    "description": "Focus on securing web applications by understanding and mitigating common vulnerabilities."
+  }
+]

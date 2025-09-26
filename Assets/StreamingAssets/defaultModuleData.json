@@ -1,0 +1,212 @@
+[
+  {
+    "id": 0,
+    "title": "Introduction to Python Programming",
+    "description": "An introductory module covering the basics of Python syntax, data types, and control structures.",
+    "course_id": 101,
+    "type": "Lecture"
+  },
+  {
+    "id": 1,
+    "title": "Data Structures and Algorithms",
+    "description": "A deep dive into essential data structures like arrays, linked lists, and trees, along with fundamental algorithms.",
+    "course_id": 101,
+    "type": "Workshop"
+  },
+  {
+    "id": 2,
+    "title": "Web Development with Flask",
+    "description": "Learn to build a simple web application using the Flask framework and Jinja templating.",
+    "course_id": 102,
+    "type": "Project"
+  },
+  {
+    "id": 3,
+    "title": "Database Management with SQL",
+    "description": "Explore relational databases and learn to write effective SQL queries for data manipulation.",
+    "course_id": 102,
+    "type": "Lecture"
+  },
+  {
+    "id": 4,
+    "title": "Machine Learning Fundamentals",
+    "description": "An overview of core machine learning concepts, including supervised and unsupervised learning.",
+    "course_id": 103,
+    "type": "Lecture"
+  },
+  {
+    "id": 5,
+    "title": "Neural Networks and Deep Learning",
+    "description": "Build and train simple neural networks using a popular deep learning library.",
+    "course_id": 103,
+    "type": "Workshop"
+  },
+  {
+    "id": 6,
+    "title": "Frontend Development with React",
+    "description": "Master the basics of React to build dynamic, single-page user interfaces.",
+    "course_id": 104,
+    "type": "Project"
+  },
+  {
+    "id": 7,
+    "title": "Asynchronous JavaScript",
+    "description": "Understand promises, async/await, and other techniques for handling asynchronous operations.",
+    "course_id": 104,
+    "type": "Lecture"
+  },
+  {
+    "id": 8,
+    "title": "Cloud Computing with AWS",
+    "description": "Learn to deploy applications and manage services on the Amazon Web Services platform.",
+    "course_id": 105,
+    "type": "Workshop"
+  },
+  {
+    "id": 9,
+    "title": "DevOps and CI/CD",
+    "description": "An introduction to continuous integration and continuous delivery pipelines.",
+    "course_id": 105,
+    "type": "Lecture"
+  },
+  {
+    "id": 10,
+    "title": "Mobile App Development with Flutter",
+    "description": "Create cross-platform mobile apps for iOS and Android using the Flutter framework.",
+    "course_id": 106,
+    "type": "Project"
+  },
+  {
+    "id": 11,
+    "title": "UI/UX Design Principles",
+    "description": "Grasp the fundamentals of user interface and user experience design for intuitive applications.",
+    "course_id": 106,
+    "type": "Lecture"
+  },
+  {
+    "id": 12,
+    "title": "Cybersecurity Essentials",
+    "description": "An overview of common threats, vulnerabilities, and defensive strategies in cybersecurity.",
+    "course_id": 107,
+    "type": "Lecture"
+  },
+  {
+    "id": 13,
+    "title": "Ethical Hacking and Penetration Testing",
+    "description": "Learn the basics of ethical hacking to identify and fix security flaws.",
+    "course_id": 107,
+    "type": "Workshop"
+  },
+  {
+    "id": 14,
+    "title": "Game Development with Unity",
+    "description": "Build a 2D or 3D game from scratch using the Unity game engine.",
+    "course_id": 108,
+    "type": "Project"
+  },
+  {
+    "id": 15,
+    "title": "Introduction to C# Programming",
+    "description": "Cover the foundational syntax and concepts of the C# programming language.",
+    "course_id": 108,
+    "type": "Lecture"
+  },
+  {
+    "id": 16,
+    "title": "Big Data Analytics with Spark",
+    "description": "Process and analyze large datasets using the Apache Spark framework.",
+    "course_id": 109,
+    "type": "Workshop"
+  },
+  {
+    "id": 17,
+    "title": "Statistical Analysis for Data Science",
+    "description": "Learn statistical methods essential for data analysis and interpretation.",
+    "course_id": 109,
+    "type": "Lecture"
+  },
+  {
+    "id": 18,
+    "title": "Robotics and Embedded Systems",
+    "description": "An introduction to programming microcontrollers and building simple robotic systems.",
+    "course_id": 110,
+    "type": "Project"
+  },
+  {
+    "id": 19,
+    "title": "Internet of Things (IoT) Fundamentals",
+    "description": "Explore the basics of connecting devices and managing data in an IoT ecosystem.",
+    "course_id": 110,
+    "type": "Lecture"
+  },
+  {
+    "id": 20,
+    "title": "Natural Language Processing (NLP)",
+    "description": "Process and analyze human language using computational techniques.",
+    "course_id": 111,
+    "type": "Workshop"
+  },
+  {
+    "id": 21,
+    "title": "Computer Vision",
+    "description": "Introduce algorithms for image and video analysis, including object detection.",
+    "course_id": 111,
+    "type": "Lecture"
+  },
+  {
+    "id": 22,
+    "title": "Blockchain and Cryptocurrencies",
+    "description": "Understand the decentralized ledger technology behind Bitcoin and Ethereum.",
+    "course_id": 112,
+    "type": "Lecture"
+  },
+  {
+    "id": 23,
+    "title": "Smart Contract Development with Solidity",
+    "description": "Write and deploy your own smart contracts on the Ethereum blockchain.",
+    "course_id": 112,
+    "type": "Project"
+  },
+  {
+    "id": 24,
+    "title": "Introduction to Quantum Computing",
+    "description": "Explore the foundational principles of quantum mechanics and their application to computation.",
+    "course_id": 113,
+    "type": "Lecture"
+  },
+  {
+    "id": 25,
+    "title": "Quantum Algorithms",
+    "description": "Examine key quantum algorithms like Shor's and Grover's algorithm.",
+    "course_id": 113,
+    "type": "Workshop"
+  },
+  {
+    "id": 26,
+    "title": "Linux System Administration",
+    "description": "Learn to manage and maintain a Linux operating system, including shell scripting and user management.",
+    "course_id": 114,
+    "type": "Lecture"
+  },
+  {
+    "id": 27,
+    "title": "Containerization with Docker",
+    "description": "Create and manage application containers for consistent development and deployment environments.",
+    "course_id": 114,
+    "type": "Workshop"
+  },
+  {
+    "id": 28,
+    "title": "User Authentication and Authorization",
+    "description": "Implement secure user login and role-based access control in a web application.",
+    "course_id": 115,
+    "type": "Lecture"
+  },
+  {
+    "id": 29,
+    "title": "API Design and Development",
+    "description": "Design and build RESTful APIs for communication between different software systems.",
+    "course_id": 115,
+    "type": "Project"
+  }
+]
