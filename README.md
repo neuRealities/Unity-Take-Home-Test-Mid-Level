@@ -7,7 +7,7 @@ It should be possible, in the future, to write an implementation for the remote 
 # Project Setup & Submission
 
 - Unity Version: Please use Unity 6000.0 LTS or a more recent version.
-- Submission: Please upload your completed project to a private Git repository (GitHub, GitLab, etc.). Invite darrencperry to the repository and notify us via email when you're finished.
+- Submission: Please upload your completed project to a private Git repository (GitHub, GitLab, etc.). Invite us to the repository and notify us via email when you're finished.
 
 # Core Requirements (Must-Haves)
 
