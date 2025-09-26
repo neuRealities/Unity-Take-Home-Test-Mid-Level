@@ -1,25 +1,31 @@
-# Overview: A Data Persistence System
+# Overview: A Data Management System
 
-Your task is to define a service for managing courses and modules data and create a simple local implementation of that service.
+Your task is to define a service for managing course and module data and create a simple local implementation of that service.
 For now, there is no remote API to communicate with but it will adhere to the provided JSON data specification.
 It should be possible, in the future, to write an implementation for the remote API without modifications to the rest of the application.
 
 # Project Setup & Submission
 
 - Unity Version: Please use Unity 6000.0 LTS or a more recent version.
-- Submission: Please upload your completed project to a private Git repository (GitHub, GitLab, etc.). Invite darrencperry to the repository when you're finished.
+- Submission: Please upload your completed project to a private Git repository (GitHub, GitLab, etc.). Invite darrencperry to the repository and notify us via email when you're finished.
 
 # Core Requirements (Must-Haves)
 
 Your service must meet the following functional requirements:
 
-- We should be able to browse, update and create courses and modules.
-- It should be possible to swap out the implementation of the service at runtime with no modification to any classes that depend on this service.
+- Write your service definition in the empty provided `IModuleService`.
+- We should be able to create, retrieve, update and delete courses and modules.
+- It should be possible to swap out the local implementation of the service to a new remote implementation with no modification to any code that depends on this service.
+  - The only modifications that should be needed to swap the service is to instantiate and supply the new implementation.
+  - It is not expected that you will write or use any dependency injection framework for this test, simply passing through dependencies is fine.
+  - Please be prepared to demonstrate how a new implementation would be used.
 - Serialization format is JSON. Newtonsoft's library is already added to the project.
-- Course and module data should be populated with the default provided data initially.
-- Changes to the course and module data should persist when the application is closed and relaunched. Where and how the data is stored is up to you.
+- Course and module data should be initially populated with the default provided data.
+- In the local implementation, changes to the course and module data should persist when the application is closed and relaunched. Where and how the data is stored is up to you.
+- Consider defining your service methods as asynchronous (Task<T>) even for the local implementation, as the future remote API will require this.
 
-# Bonus Goals (Optional Nice-to-Haves). These are not required. If you finish the core task and want to demonstrate additional skills, feel free to tackle one of these challenges.
+# Bonus Goals (Optional Nice-to-Haves). 
+These are not required. If you finish the core task and want to demonstrate additional skills, feel free to tackle one of these challenges.
 
 - Some way to either manually or automatically test the service and implementation. This could be using Unity UI, an Editor window or automated tests.
 - Decide on an approach to error and exception handling that can be carried forward to future service implementations.

@@ -10,4 +10,11 @@
         public string Description;
         public ModuleType Type;
     }
+    
+    public enum ModuleType
+    {
+        Lecture,
+        Workshop,
+        Project
+    }
 }
